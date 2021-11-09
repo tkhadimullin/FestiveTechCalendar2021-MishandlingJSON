@@ -1,0 +1,31 @@
+﻿{
+  "sku": 185267,
+  "name": "Duracell - D Batteries (4-Pack)",
+  "type": "HardGood",
+  "price": 9.99,
+  "upc": "041333430010",
+  "category": [
+    {
+      "id": "pcmcat312300050015",
+      "name": "Connected Home & Housewares"
+    },
+    {
+      "id": "pcmcat248700050021",
+      "name": "Housewares"
+    },
+    {
+      "id": "pcmcat303600050001",
+      "name": "Household Batteries"
+    },
+    {
+      "id": "abcat0208002",
+      "name": "Alkaline Batteries"
+    }
+  ],
+  "shipping": 5.99,
+  "description": "Compatible with select electronic devices; D size; DURALOCK Power Preserve technology; 4-pack",
+  "manufacturer": "Duracell",
+  "model": "MN1300R4Z",
+  "url": "http://www.bestbuy.com/site/duracell-d-batteries-4-pack/185267.p?id=1051384046551&skuId=185267&cmp=RMXCC",
+  "image": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185267_sa.jpg"
+}
